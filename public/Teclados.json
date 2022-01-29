@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "precio": "116,74€",
+    "titulo": "Razer Huntsman Mini - Linear Optical Switch - US - Black",
+    "srcimg": "https://assets3.razerzone.com/RpUeXnt4tNXUKhKXFgAECtspNSE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbc%2Fhe8%2F9081238388766%2Fhuntsman-mini-black-1.jpg",
+    "texto": "Conmutadores ópticos Razer, factor de forma del 60 % y teclas PBT de doble disparo con funciones secundarias impresas en el lateral",
+    "url": "https://www.razer.com/gaming-keyboards/Razer-Huntsman-Mini/RZ03-03390200-R3M1"
+},
+{
+    "id": 2,
+    "precio": "125,72€",
+    "titulo": "Razer BlackWidow V3 - Yellow Switch - US - Black",
+    "srcimg": "https://assets3.razerzone.com/iA-LbTJ3ikhhZ2GTNcIotXaKo8A=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh36%2Fh7a%2F9261073006622%2Frazer-blackwidow-v3-1500x1000-0-V3.jpg",
+    "texto": "Interruptores mecánicos amarillos Razer, carcasa de interruptor transparente y teclas ABS de doble disparo",
+    "url": "https://www.razer.com/gaming-keyboards/Razer-BlackWidow-V3/RZ03-03541900-R3M1"
+},
+{
+    "id": 3,
+    "precio": "179,60€",
+    "titulo": "Razer Huntsman Elite - Clicky Optical Switch - US",
+    "srcimg": "https://assets3.razerzone.com/-qeuHhuWc1bGPifrsCTVZzrSI5Q=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc8%2Fh54%2F9081235374110%2FRazer-Huntsman-Elite-gallery-hero.jpg",
+    "texto": "El nuevo interruptor óptico Razer, el interruptor óptico Razer Clicky y el dial digital multifunción",
+    "url": "https://www.razer.com/gaming-keyboards/Razer-Huntsman-Elite/RZ03-01870200-R3U1"
+},
+{
+    "id": 4,
+    "precio": "116,74€",
+    "titulo": "Razer Huntsman Tournament Edition - US - Green Keycaps",
+    "srcimg": "https://assets3.razerzone.com/Bc_r_L1utT3iZXoOYGJMvzzi8PQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh47%2Fh0b%2F9178922188830%2Fhuntsman-te-se-gallery-150x1000-1.jpg",
+    "texto": "Interruptor óptico lineal Razer, teclas PBT Doubleshot y memoria integrada",
+    "url": "https://www.razer.com/gaming-keyboards/Razer-Huntsman-Tournament-Edition/RZ03-03081200-R3U1"
+},
+{
+    "id": 5,
+    "precio": "143,68€",
+    "titulo": "Razer Huntsman V2 Tenkeyless - Linear Optical Switch - US",
+    "srcimg": "https://assets3.razerzone.com/u587wy05gcl8yQla1HTUDh2q-Vk=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd5%2Fhc8%2F9239674912798%2F16-sep-huntsman-v2-tkl-1500x1000-1.jpg",
+    "texto": "Interruptores ópticos lineales Razer Gen-2, teclas PBT Doubleshot y espuma amortiguadora de sonido",
+    "url": "https://www.razer.com/gaming-keyboards/Razer-Huntsman-V2-Tenkeyless/RZ03-03940200-R3U1"
+},
+{
+    "id": 6,
+    "precio": "143,68€",
+    "titulo": "Razer Pro Type Ultra - US",
+    "srcimg": "https://assets3.razerzone.com/ryRh0JzGIDxlMR7RndA7n8u5z28=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc5%2Fh96%2F9311020908574%2F220117-pro-type-ultra-1500x1000-1.jpg",
+    "texto": "Interruptores de teclado lineales y silenciosos, diseño ergonómico con revestimiento suave al tacto y reposamuñecas de piel sintética afelpada",
+    "url": "https://www.razer.com/gaming-keyboards/Razer-Pro-Type-Ultra/RZ03-04110200-R3U1"
+}
+]

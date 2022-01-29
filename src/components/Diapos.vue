@@ -1,0 +1,25 @@
+<template>
+<div>
+  <b-carousel
+    id="carousel-fade"
+    style="text-shadow: 0px 0px 2px #070"
+    fade
+    indicators
+    img-width="1024"
+    img-height="480"
+  >
+    <b-carousel-slide
+      caption="Monitores" 
+      img-src="../assets/172.png"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption="Ratones"
+      img-src="../assets/BASILIKS.jpg"
+    ></b-carousel-slide>
+    <b-carousel-slide
+      caption="Teclados"
+      img-src="../assets/keyboard.jpg"
+    ></b-carousel-slide>
+  </b-carousel>
+</div>
+</template>

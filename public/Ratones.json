@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "precio": "125,72€",
+    "titulo": "Razer DeathAdder V2 Pro - Genshin Impact Edition",
+    "srcimg": "https://assets3.razerzone.com/lBf5660JTjcMdYA4wZzlK_7-VUQ=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh48%2Fhc8%2F9264382771230%2F211117-deathadder-v2-pro-genshin-1500x1000-1.jpg",
+    "texto": "No importa en qué Constellation haya elegido, deje que las estrellas se alineen y apunten con precisión con un mouse ergonómico inalámbrico de primer nivel que es extremadamente cómodo de usar y está equipado con nuestros últimos interruptores, sensores y Razer HyperSpeed ​​Wireless ultrarrápido",
+    "url": "https://www.razer.com/gaming-mice/Razer-DeathAdder-V2-Pro/RZ01-03350200-R3M1"
+},
+{
+    "id": 2,
+    "precio": "134,70€",
+    "titulo": "Razer Viper Ultimate with Charging Dock - Black",
+    "srcimg": "https://assets3.razerzone.com/6v1RVaYM7gImsVUwGP7AXb6YOcw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fh6a%2F9081447088158%2Frazer-viper-ultimate-gallery-hero.jpg",
+    "texto": "Tecnología inalámbrica Razer Hyperspeed, sensor óptico Razer Focus+ e interruptor de ratón óptico Razer.",
+    "url": "https://www.razer.com/gaming-mice/Razer-Viper-Ultimate/RZ01-03050100-R3U1"
+},
+{
+    "id": 3,
+    "precio": "89,80€",
+    "titulo": "Razer Naga Trinity",
+    "srcimg": "https://assets3.razerzone.com/hf82VIrIdRUiDK14L3A26DSDztI=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh85%2Fhe0%2F9081445974046%2Frazer-naga-trinity-gallery-hero-1500x1000.jpg",
+    "texto": "Experimente el poder del control total en su mano, sin importar el juego que juegue. Diseñado para brindarle la ventaja que necesita en el juego MOBA/MMO, el Razer Naga Trinity le permite configurar su mouse para todo, desde armas hasta personalizaciones para que siempre esté por delante de la competencia",
+    "url": "https://www.razer.com/gaming-mice/Razer-Naga-Trinity/RZ01-02410100-R3U1"
+},
+{
+    "id": 4,
+    "precio": "152,66€",
+    "titulo": "Razer Basilisk Ultimate with Charging Dock",
+    "srcimg": "https://assets3.razerzone.com/bf8D47Ijqjyk8ASpceDUqDrb7Fc=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbf%2Fh76%2F9081449480222%2FRazer-Basilisk-Ultimate-Hero-1500x1000.jpg",
+    "texto": "Tecnología Razer Hyperspeed Wireless, 11 botones programables y 14 zonas de iluminación Razer Chroma personalizables",
+    "url": "https://www.razer.com/gaming-mice/Razer-Basilisk-Ultimate/RZ01-03170100-R3U1"
+},
+{
+    "id": 5,
+    "precio": "89,80€",
+    "titulo": "Razer Naga Left-Handed Edition",
+    "srcimg": "https://assets3.razerzone.com/eYjVnOIhezgNUoP5Ji_c36rd98s=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhff%2Fh63%2F9081450889246%2FRazer-Naga-Left-Handed-Edition-Gallery0.jpg",
+    "texto": "DEDICADO A LOS JUGADORES DE MMO zurdos. Como la única emoresa de juegos que ha diseñado ratones de juego exclusivos para zurdos, creemos que todos deberían tener la ventaja justa. Con el respaldo de una comunidad apasionada, nos enorgullece presentarle el nuevo y mejorado Razer Naga Left-Handed Edition, un verdadero mouse ergonomico para juegos MMO para zurdos",
+    "url": "https://www.razer.com/gaming-mice/Razer-Naga-Left-Handed-Edition/RZ01-03410100-R3M1"
+},
+{
+    "id": 6,
+    "precio": "53,87€",
+    "titulo": "Razer DeathAdder V2 X HyperSpeed",
+    "srcimg": "https://assets3.razerzone.com/diaGo1wVz-PXImjvh5fdRNCv8WY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh21%2Fh0a%2F9250344468510%2F211026-deathadder-v2-x-hyperspeed-1500x1000-1.jpg",
+    "texto": "Diseño ergonómico galardonado, ultrarrápido Razer™ HyperSpeed Wireless y 235 horas de duración de la batería (2,4 GHz)",
+    "url": "https://www.razer.com/gaming-mice/Razer-DeathAdder-V2-X-HyperSpeed/RZ01-04130100-R3U1"
+}
+
+
+]
